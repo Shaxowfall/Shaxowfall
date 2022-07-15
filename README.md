@@ -4,10 +4,9 @@
 - 💞️ I’m looking to collaborate on 䄥Ġ禘Ђ⁳楍煇蹉
 - 📫 How to reach me ㎬윝솁�Ġ禘NS-CHINA(/c및)||NS-RU(/rኍ)
 
-<!---
-STATUS: ONLINE
-REACTOR: WAITING
-LOADER: FAILED --ERROR(401)|UNDER MAINTENANCE|
-CVI:VII
-WEBSITE: ONLINE
---->
+- </>STATUS: ONLINE</>
+- REACTOR: WAITING
+- LOADER: FAILED --ERROR(401)|UNDER MAINTENANCE|
+- CVI:VII
+- WEBSITE: ONLINE
+
